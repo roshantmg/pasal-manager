@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379964820113",
+    "firebase_url": "https://pasal-manager.firebaseio.com",
+    "project_id": "pasal-manager",
+    "storage_bucket": "pasal-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379964820113:android:fdb9d0e82ecb78f32e0d30",
+        "android_client_info": {
+          "package_name": "com.example.pasal_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379964820113-28su9a0klsdh6q3c964uri32tlpqe3li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pasal_manager",
+            "certificate_hash": "7cf479de8a9794763524898ebfac3a73e4d91ee0"
+          }
+        },
+        {
+          "client_id": "379964820113-3ua7nufrkgmucr4u86k56m2jvpvvt84q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCoDhZH72l0iZR4JLuXiVcUh22fU_AGS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379964820113-3ua7nufrkgmucr4u86k56m2jvpvvt84q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
